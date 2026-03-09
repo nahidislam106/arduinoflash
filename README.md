@@ -183,4 +183,4 @@ arduinoflash/
 
 ## 📄 License
 
-MIT © [NahiidIslam](https://github.com/NahiidIslam)
+MIT © [Nahiid Islam](https://github.com/nahidislam106)
