@@ -1,0 +1,26 @@
+# Compiled output
+out/
+*.js.map
+
+# Dependencies
+node_modules/
+
+# Build artifacts
+*.vsix
+
+# VS Code local settings
+.vscode-test/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
